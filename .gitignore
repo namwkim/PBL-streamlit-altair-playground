@@ -21,6 +21,7 @@ build/
 *.venv
 venv/
 ENV/
+myenv/
 
 # Spyder project settings
 .spyderproject
